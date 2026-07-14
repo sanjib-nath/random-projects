@@ -6,9 +6,9 @@ A collection of small, random projects I've built while learning to code. Mostly
 
 | Project | Description | Tech |
 |---|---|---|
-| `calculator` | A simple calculator | Python |
+| `calculator` | A simple calculator | Python, Tkinter|
 | `CLI_task_list` | Command-line to-do/task manager | Python |
-| `to_do_list` | To-do list app | Python |
+| `to_do_list` | To-do list app | Python, Tkinter |
 | `tusi_couple` | Animation project | Python, pygame |
 
 *(More added as I build them.)*

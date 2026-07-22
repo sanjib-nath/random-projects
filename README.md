@@ -10,6 +10,7 @@ A collection of small, random projects I've built while learning to code. Mostly
 | `CLI_task_list` | Command-line to-do/task manager | Python |
 | `to_do_list` | To-do list app | Python, Tkinter |
 | `tusi_couple` | Animation project | Python, pygame |
+| `rotating_cube` | 3d projects | Python, pygame, numpy |
 
 *(More added as I build them.)*
 
